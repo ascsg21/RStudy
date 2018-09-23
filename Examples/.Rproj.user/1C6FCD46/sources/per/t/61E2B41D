@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534563989493.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4170731061",
+    "id" : "61E2B41D",
+    "lastKnownWriteTime" : 1534564543,
+    "last_content_update" : 1534564543616,
+    "path" : "~/Desktop/My Google/DoitR/Examples/chapter14.Rmd",
+    "project_path" : "chapter14.Rmd",
+    "properties" : {
+        "cursorPosition" : "15,171",
+        "scrollLine" : "12",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

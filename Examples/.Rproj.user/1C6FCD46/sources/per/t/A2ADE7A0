@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532757939063.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "744451027",
+    "id" : "A2ADE7A0",
+    "lastKnownWriteTime" : 1532758508,
+    "last_content_update" : 1532758508557,
+    "path" : "~/Desktop/My Google/DoitR/Examples/chapter3.R",
+    "project_path" : "chapter3.R",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
